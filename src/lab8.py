@@ -11,7 +11,7 @@ def display_menu():
     print('3) Print the results')
     
     ## Add any new menu options here.
-
+# 111
 
     print('5) Quit')
     print()
@@ -76,6 +76,7 @@ def main():
             print('Invalid choice. Please try again.')
 
     print('Goodbye!')
+    print('hello')
 
 def print_results(terriers, opponents):
     
