@@ -1,5 +1,6 @@
 # Lab 8
 # Computer Science 111
+print("hello")
 
 def display_menu():
     """ prints a menu of options
